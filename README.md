@@ -21,3 +21,7 @@ document.getElementById("demo").innerHTML = (5 + 6) * 10;
 </html>
 
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
